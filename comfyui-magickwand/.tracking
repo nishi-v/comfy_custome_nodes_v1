@@ -1,0 +1,17 @@
+pyproject.toml
+wand_methods.json
+utils.py
+.gitignore
+nodes.py
+000002.jpg
+example_schedule.gif
+requirements.txt
+gen_node_classes.py
+README.md
+LICENSE
+method_category.json
+gen_wand_methods_json.py
+example_image.png
+__init__.py
+magickwand_playground.json
+.github/workflows/publish.yml
